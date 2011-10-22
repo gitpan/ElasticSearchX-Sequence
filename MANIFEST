@@ -1,0 +1,16 @@
+Build.PL
+Changes
+LICENSE
+MANIFEST
+MANIFEST.SKIP
+META.json
+META.yml
+README
+benchmark/benchmark.pl
+dist.ini
+lib/ElasticSearchX/Sequence.pm
+lib/ElasticSearchX/Sequence/Iterator.pm
+t/00-load.t
+t/release-eol.t
+t/release-no-tabs.t
+t/release-pod-syntax.t
